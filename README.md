@@ -35,12 +35,6 @@ This project was developed during my internship at Graphura India Pvt. Ltd. The 
 [![Dashboard](Screenshot (127).png)](https://github.com/payal19s/Resume-Skill-Matching-Engine/blob/main/Screenshot%20(129).png)
 [![Dashboard](Screenshot (127).png)](https://github.com/payal19s/Resume-Skill-Matching-Engine/blob/main/Screenshot%20(130).png)
 
-
-![Dashboard](Screenshot (127).png) 
-![Dashboard](Screenshot (127).png) 
-![Dashboard](Screenshot (127).png) 
-![Dashboard](Screenshot (127).png)
-
 ## Business Impact
 - Reduced manual resume screening time
 - Improved candidate-role matching
