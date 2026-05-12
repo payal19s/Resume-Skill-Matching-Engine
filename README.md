@@ -31,9 +31,10 @@ This project was developed during my internship at Graphura India Pvt. Ltd. The 
 
 ## Dashboard Screenshots
 [![Dashboard](Screenshot (127).png)](https://github.com/payal19s/Resume-Skill-Matching-Engine/blob/main/Screenshot%20(127).png)
-![Dashboard](Screenshot (128).png)
-![Dashboard](Screenshot (129).png)
-![Dashboard](Screenshot (130).png)
+[![Dashboard](Screenshot (127).png)](https://github.com/payal19s/Resume-Skill-Matching-Engine/blob/main/Screenshot%20(128).png)
+[![Dashboard](Screenshot (127).png)](https://github.com/payal19s/Resume-Skill-Matching-Engine/blob/main/Screenshot%20(129).png)
+[![Dashboard](Screenshot (127).png)](https://github.com/payal19s/Resume-Skill-Matching-Engine/blob/main/Screenshot%20(130).png)
+
 
 
 
