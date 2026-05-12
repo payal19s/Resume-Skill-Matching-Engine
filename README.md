@@ -30,9 +30,12 @@ This project was developed during my internship at Graphura India Pvt. Ltd. The 
 - Random Forest
 
 ## Dashboard Screenshots
-![Dashboard](Screenshot1.png)
+![Dashboard](Screenshot (127).png)
+![Dashboard](Screenshot (128).png)
+![Dashboard](Screenshot (129).png)
+![Dashboard](Screenshot (130).png)
 
-![Analysis](Screenshot2.png)
+
 
 ## Business Impact
 - Reduced manual resume screening time
